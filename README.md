@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chinchosero
 - 👀 I’m interested in HTML, CSS, Javascript, Rails.
-- 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on web design applications
+- 🌱 I’m currently learning the basics and beyond.
+- 💞️ I’m looking to collaborate on web design applications.
 - 📫 How to reach me patricio.encina@outlook.com
 
 <!---
