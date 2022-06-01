@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chinchosero
 - 👀 I’m interested in HTML, CSS, Javascript, React, RoR.
 - 🌱 I’m currently learning the basics and beyond.
-- 💞️ I’m looking to collaborate on web design applications.
+- 💞️ I’m looking to collaborate as a frontend developer.
 - 📫 How to reach me patricio.encina@outlook.com
 
 <!---
