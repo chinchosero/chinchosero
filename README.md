@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chinchosero
-- 👀 I’m interested in HTML, CSS, Javascript, React, RoR.
-- 🌱 I’m currently learning the basics and beyond.
-- 💞️ I’m looking to collaborate as a frontend developer.
+- 👋 Hi, I’m @chinchosero (Patricio Encina Escalante)
+- 👀 I’m interested in Software testing, QA Automation, Startups and Agile frameworks.
+- 🌱 I know basic HTML, CSS, Javascript, SQL, Cypress.
+- 💞️ I’m looking to collaborate as a QA Analyst
 - 📫 How to reach me patricio.encina@outlook.com
 
 <!---
