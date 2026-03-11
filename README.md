@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chinchosero (Patricio Encina Escalante)
-- 👀 I’m interested in Software testing, QA Automation, Startups and Agile frameworks.
-- 🌱 I know basic HTML, CSS, Javascript, SQL, Cypress, Playwright
-- 💞️ I’m looking to collaborate as a QA Analyst
+- 👀 I’m interested in Software testing, QA Automation, DevOps, Startups and Agile frameworks.
+- 🌱 I know basic Git, HTML, CSS, Typescript, SQL, Cypress, Playwright
+- 💞️ I’m looking to collaborate as a QA Analyst, Software Developer or DevOps.
 - 📫 How to reach me patricio.encina@outlook.com
 
 <!---
